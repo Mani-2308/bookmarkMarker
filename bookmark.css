@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.greeting-container {
+    background-color: #2d3a8c;
+    height: 100vh;
+}
+
+.greeting {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 19px;
+}
+
+.greeter-name {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 28px;
+}
+
+.card-container {
+    background-color: #ffffff;
+    height: 100vh;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.favourite-sites-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 19px;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+
+.sites-card-container {
+    background-color: #f5f7fa;
+    border-radius: 20px;
+}
+
+.field-names {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.input-boxes {
+    height: 55px;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+.button {
+    color: #ffffff;
+    background-color: #21396c;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.error-message {
+    color: #dc3545;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.result-site-name {
+    color: #323f4b;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 26px;
+}
+
+.result-site-url {
+    font-size: 23px;
+}
+
+.unodered-list {
+    padding-left: 0;
+    list-style-type: none;
+}
